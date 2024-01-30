@@ -27,10 +27,8 @@ OOP graphics game of etch-a-sketch
 ![EtchASketch Start](https://github.com/emmitan/programmingportfolio/blob/main/images/EtchASketchDraw.png)
 
 #### ScreenSaver
-[Source Code]()
-![SpaceGame Menu]()
-![SpaceGame Gameplay]()
-![SpaceGame Game over]()
+[Source Code](https://github.com/emmitan/programmingportfolio/blob/main/src/ScreenSaver.zip)
+![ScreenSaver](https://github.com/emmitan/programmingportfolio/blob/main/images/ScreenSaver.png)
 
 #### Convertor
 [Source Code]()

@@ -1,6 +1,6 @@
 # Emily Tan | Programming Portfolio 2B
 
-## Certifications 🌙
+## Certifications
 - Programming 1 USOE Certification
 
 ## Group Project
@@ -9,3 +9,6 @@
 
 #### SpaceGame
 OOP graphics games spotlighting objects for user interaction that includes sound and animation.
+![SpaceGame Menu]()
+![SpaceGame Gameplay]()
+![SpaceGame Game over]()

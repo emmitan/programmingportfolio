@@ -10,5 +10,5 @@
 #### SpaceGame
 OOP graphics games spotlighting objects for user interaction that includes sound and animation.
 ![SpaceGame Menu](https://github.com/emmitan/programmingportfolio/blob/main/images/SpaceGameStart.png)
-![SpaceGame Gameplay]()
-![SpaceGame Game over]()
+![SpaceGame Gameplay](https://github.com/emmitan/programmingportfolio/blob/main/images/SpaceGamePlay.png)
+![SpaceGame Game over](https://github.com/emmitan/programmingportfolio/blob/main/images/SpaceGameOver.png)

@@ -23,10 +23,8 @@ OOP graphics calculator with keyboard interaction?
 
 #### EtchASketch
 OOP graphics game of etch-a-sketch
-[Source Code]()
-![EtchASketch Start]()
-![SpaceGame Gameplay]()
-![SpaceGame Game over]()
+[Source Code](https://github.com/emmitan/programmingportfolio/blob/main/src/EtchASketch.zip)
+![EtchASketch Start](https://github.com/emmitan/programmingportfolio/blob/main/images/EtchASketchDraw.png)
 
 #### ScreenSaver
 [Source Code]()

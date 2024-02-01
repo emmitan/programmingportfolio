@@ -9,7 +9,7 @@ Skyline High School Computer Programming 1 & 2
 ## Individual Projects
 
 #### SpaceGame
-OOP graphics game spotlighting objects for user interaction that includes sound and animation.
+OOP graphics game spotlighting objects for user interaction that includes sound.
 ![SpaceGame Menu](https://github.com/emmitan/programmingportfolio/blob/main/images/SpaceGameStart.png)
 ![SpaceGame Gameplay](https://github.com/emmitan/programmingportfolio/blob/main/images/SpaceGamePlay.png)
 ![SpaceGame Game over](https://github.com/emmitan/programmingportfolio/blob/main/images/SpaceGameOver.png)

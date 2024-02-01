@@ -16,7 +16,7 @@ OOP graphics game spotlighting objects for user interaction that includes sound 
 
 
 #### Calculator
-OOP graphics calculator with keyboard interaction?
+OOP graphics calculator with keyboard interaction
 [Source Code](https://github.com/emmitan/programmingportfolio/blob/main/src/CalcKeyboard.zip)
 ![Calculator Blank](https://github.com/emmitan/programmingportfolio/blob/main/images/CalcBlank.png)
 ![Calculator Entry](https://github.com/emmitan/programmingportfolio/blob/main/images/CalcEntry.png)
@@ -27,10 +27,12 @@ OOP graphics game of etch-a-sketch
 ![EtchASketch Start](https://github.com/emmitan/programmingportfolio/blob/main/images/EtchASketchDraw.png)
 
 #### ScreenSaver
+Screensaver
 [Source Code](https://github.com/emmitan/programmingportfolio/blob/main/src/ScreenSaver.zip)
 ![ScreenSaver](https://github.com/emmitan/programmingportfolio/blob/main/images/ScreenSaver.png)
 
 #### Convertor
+Convertor between word count and pages
 [Source Code](https://github.com/emmitan/programmingportfolio/blob/main/src/Convertor.zip)
 ![Convertor Pages](https://github.com/emmitan/programmingportfolio/blob/main/images/Convertor1.png)
 ![Convertor words](https://github.com/emmitan/programmingportfolio/blob/main/images/Convertor2.png)

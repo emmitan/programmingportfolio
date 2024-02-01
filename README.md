@@ -1,4 +1,5 @@
 # Emily Tan | Programming Portfolio 2B
+Skyline High School Computer Programming 1 & 2
 
 ## Certifications
 - Programming 1 USOE Certification

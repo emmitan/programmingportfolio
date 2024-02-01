@@ -1,4 +1,4 @@
-# Emily Tan | Programming Portfolio 2B
+# Emily Tan | Programming Portfolio
 Skyline High School Computer Programming 1 & 2
 
 ## Certifications

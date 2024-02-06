@@ -10,7 +10,7 @@ Skyline High School Computer Programming 1 & 2
 
 #### SpaceGame
 OOP graphics game spotlighting objects for user interaction that includes sound.
-![SpaceGame Menu](https://github.com/emmitan/programmingportfolio/blob/main/images/SpaceGameStart.png)
+![SpaceGame Menu](https://github.com/emmitan/programmingportfolio/blob/main/images/SpaceGameStart.png?raw=true)
 ![SpaceGame Gameplay](https://github.com/emmitan/programmingportfolio/blob/main/images/SpaceGamePlay.png)
 ![SpaceGame Game over](https://github.com/emmitan/programmingportfolio/blob/main/images/SpaceGameOver.png)
 [Source Code](https://github.com/emmitan/programmingportfolio/blob/main/src/SpaceGame.zip)

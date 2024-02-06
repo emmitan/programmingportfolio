@@ -18,7 +18,7 @@ OOP graphics game spotlighting objects for user interaction that includes sound.
 
 #### Calculator
 OOP graphics calculator with keyboard interaction
-![Calculator Blank](https://github.com/emmitan/programmingportfolio/blob/main/images/CalcBlank.png?raw=true)
+![Calculator Blank](https://github.com/emmitan/programmingportfolio/blob/main/images/CalcBlank.png?raw=true))
 ![Calculator Entry](https://github.com/emmitan/programmingportfolio/blob/main/images/CalcEntry.png?raw=true)
 [Source Code](https://github.com/emmitan/programmingportfolio/blob/main/src/CalcKeyboard.zip)
 

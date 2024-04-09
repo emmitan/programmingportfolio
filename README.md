@@ -5,10 +5,16 @@ Skyline High School Computer Programming 1 & 2
 - Programming 1 USOE Certification
 
 ## Group Project
+**BunnyBreak**
+A puzzle game where the player is a bunny who's trying to break out of prison, solving two different puzzles (a memory game and a maze) in order to escape.
 
-[BunnyBreak](https://github.com/9606841/BunnyPrisonGame/tree/main)
+[Source Code](https://github.com/9606841/BunnyPrisonGame/tree/main)
 
 ## Individual Projects
+**Bloom**
+A cozy clicker-based game where you are tasked to grow different plants for the house fairies.
+
+[Source Code](https://github.com/emmitan/IndividualProject/tree/main)
 
 #### SpaceGame
 OOP graphics game spotlighting objects for user interaction that includes sound.

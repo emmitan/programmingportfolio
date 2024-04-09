@@ -9,6 +9,7 @@ Skyline High School Computer Programming 1 & 2
 
 A puzzle game where the player is a bunny who's trying to break out of prison, solving two different puzzles (a memory game and a maze) in order to escape.
 
+![Screenshot](https://github.com/emmitan/programmingportfolio/blob/main/images/BunnyBreakScreenShot.png?raw=true)
 [Source Code](https://github.com/9606841/BunnyPrisonGame/tree/main)
 
 ## Individual Projects

@@ -7,6 +7,7 @@ Skyline High School Computer Programming 1 & 2
 ## Prompt Generator (Individual Project)
 
 A prompt generator that can be used for writing and art.
+![Prompt Generator](https://github.com/emmitan/programmingportfolio/blob/main/images/prompt.png?raw=true)
 
 [Source Code](https://github.com/emmitan/IndividualProject/tree/main)
 

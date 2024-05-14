@@ -4,9 +4,9 @@ Skyline High School Computer Programming 1 & 2
 ## Certifications
 - Programming 1 USOE Certification
 
-## Bloom
+## Prompt Generator (Individual Project)
 
-A cozy clicker-based game where you are tasked to grow different plants for the house fairies.
+A prompt generator that can be used for writing and art.
 
 [Source Code](https://github.com/emmitan/IndividualProject/tree/main)
 

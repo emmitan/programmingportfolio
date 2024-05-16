@@ -3,6 +3,7 @@ Skyline High School Computer Programming 1 & 2
 
 ## Certifications
 - Programming 1 USOE Certification
+- Programming 2 Python Certification
 
 ## Prompt Generator (Individual Project)
 
